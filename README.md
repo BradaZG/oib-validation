@@ -31,6 +31,7 @@ Osobe zaslužne za pojedine verzije su:
 - C - Damir Džeko, HZZO 
 - C# - Domagoj Pavlešić, dizzy.hr 
 - Clipper - Predrag Suvajdžić
+- ClojureScript - Domagoj Marušić, Very Big Things
 - CPP/CLI - Mark Burazin, Tahoma
 - Delphi/Pascal - Ivica Makaj, Victory 
 - Excel - Marko Rakar, Mrak.org
